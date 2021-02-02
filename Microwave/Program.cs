@@ -11,10 +11,10 @@ namespace Microwave
         {
             if (args.Length == 0)
             {
-                Console.WriteLine("USAGE: microwave <time> [<filename>]");
-                Console.WriteLine("\nPARAMETERS:");
-                Console.WriteLine("\ttime (int) - time in form xx:xx or x");
-                Console.WriteLine("\tfilename (string) - filename");
+                Console.WriteLine("USAGE: microwave <time> [<filename>]\n" +
+                    "\nPARAMETERS:\n" +
+                    "\ttime (int) - time in form xx:xx or x\n" +
+                    "\tfilename (string) - filename");
                 Environment.Exit(0);
                 return;
             }
