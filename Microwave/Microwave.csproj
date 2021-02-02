@@ -7,6 +7,9 @@
     <Description>mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</Description>
     <PackageIcon>microwave.png</PackageIcon>
     <ApplicationIcon>microwave.ico</ApplicationIcon>
+    <PackageProjectUrl>https://github.com/soup-dog/microwave</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/soup-dog/microwave</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
